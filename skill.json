@@ -1,0 +1,15 @@
+{
+  "name": "genpark-r-tree-spatial-index-bounding-box-skill",
+  "version": "1.0.0",
+  "description": "R-Tree spatial index hierarchy organizing multidimensional geometric objects with minimum bounding boxes (MBR) for fast range queries.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "r-tree",
+    "spatial-index",
+    "bounding-box",
+    "gis-algorithms"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
